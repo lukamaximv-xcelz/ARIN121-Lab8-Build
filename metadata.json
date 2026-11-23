@@ -1,0 +1,6 @@
+{
+  "name": "Practice Quiz Assistant",
+  "description": "Interactive university practice quiz generator that creates 3-question multiple-choice quizzes from study notes with instant grading and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
